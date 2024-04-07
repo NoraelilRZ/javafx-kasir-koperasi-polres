@@ -1,4 +1,4 @@
-
+.root { -fx-focus-color: transparent; }
 .btn{
 	-fx-background-color: #ffffff;
 	-fx-background-radius: 20px;

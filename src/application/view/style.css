@@ -1,0 +1,8 @@
+
+.btn{
+	-fx-background-color: #ffffff;
+	-fx-background-radius: 20px;
+}
+.btn:pressed{
+	-fx-background-color: #f2f2f2;
+}
